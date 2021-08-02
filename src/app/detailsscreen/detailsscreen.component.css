@@ -1,0 +1,29 @@
+.box{
+    margin: 3px;
+    min-height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: large;
+}
+table {
+    margin-top: 50px;
+    width: 100%;
+  }
+  .example-card {
+    max-width: 350px;
+    min-height: 80px;
+    text-align: center;
+   
+  }
+  .mat-card-header{
+      display: inline !important;
+  }
+  .recovered{
+    background-color: rgb(114, 223, 187);
+  }
+  .confirmed{
+    background-color: rgb(228, 101, 101);
+  }
+  .death{
+    background-color: rgb(170, 238, 243);
+  }
